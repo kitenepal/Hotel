@@ -1,4 +1,9 @@
 /* line 1, ../sass/module/_navbar.scss */
 nav ul li a {
-  color: red !important;
+  color: #CC9986 !important;
+}
+
+/* line 5, ../sass/module/_navbar.scss */
+.color {
+  background-color: #24292E !important;
 }
