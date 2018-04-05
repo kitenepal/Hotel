@@ -1,0 +1,21 @@
+ul{
+	li{
+		list-style:none;
+		color:white;
+		&:hover{
+			color:red;
+		}
+		
+	}
+}
+
+
+// section padding
+.section-padding{
+	padding:$section-padding;
+}
+
+.btn{
+	margin:$button-margin;
+}
+

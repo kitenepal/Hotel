@@ -1,9 +1,61 @@
+/* line 2, ../sass/base/_base.scss */
+ul li {
+  list-style: none;
+  color: white;
+}
+/* line 5, ../sass/base/_base.scss */
+ul li:hover {
+  color: red;
+}
+
+/* line 14, ../sass/base/_base.scss */
+.section-padding {
+  padding: 50px;
+}
+
+/* line 18, ../sass/base/_base.scss */
+.btn {
+  margin: 20px;
+}
+
 /* line 1, ../sass/module/_navbar.scss */
 nav ul li a {
-  color: #CC9986 !important;
+  color: white !important;
 }
 
 /* line 6, ../sass/module/_navbar.scss */
 .color {
   background-color: #24292E !important;
+}
+
+/* line 1, ../sass/module/_services.scss */
+.services {
+  background-color: #585858;
+}
+
+/* line 1, ../sass/module/_copyright.scss */
+.copyright {
+  padding: 10px 10px;
+  background-color: #89D0E6;
+}
+
+/* line 1, ../sass/module/_Footer.scss */
+.footer {
+  color: white;
+  background-color: #585858;
+}
+
+/* line 1, ../sass/module/_Rooms.scss */
+.Rooms {
+  color: white;
+}
+
+/* line 1, ../sass/module/pages/_about.scss */
+.section-padding {
+  padding: 80px;
+}
+
+/* line 1, ../sass/module/pages/_Rooms.scss */
+.services-services {
+  padding: 10px;
 }
