@@ -15,7 +15,16 @@ ul{
 	padding:$section-padding;
 }
 
-.btn{
-	margin:$button-margin;
-}
+// .btn{
+// 	margin:$button-margin;
 
+// }
+
+.button-s{
+	border: 2px solid black;
+	margin:$button-margin;
+	
+}
+.service__heading{
+	margin:50px;
+}

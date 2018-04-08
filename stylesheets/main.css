@@ -13,9 +13,15 @@ ul li:hover {
   padding: 50px;
 }
 
-/* line 18, ../sass/base/_base.scss */
-.btn {
+/* line 23, ../sass/base/_base.scss */
+.button-s {
+  border: 2px solid black;
   margin: 20px;
+}
+
+/* line 28, ../sass/base/_base.scss */
+.service__heading {
+  margin: 50px;
 }
 
 /* line 1, ../sass/module/_navbar.scss */
@@ -36,13 +42,18 @@ nav ul li a {
 /* line 1, ../sass/module/_copyright.scss */
 .copyright {
   padding: 10px 10px;
-  background-color: #89D0E6;
+  background-color: #000000;
+  color: white;
 }
 
 /* line 1, ../sass/module/_Footer.scss */
 .footer {
   color: white;
-  background-color: #585858;
+  background-color: #292929;
+}
+/* line 4, ../sass/module/_Footer.scss */
+.footer ul li a {
+  color: #fff;
 }
 
 /* line 1, ../sass/module/_Rooms.scss */
